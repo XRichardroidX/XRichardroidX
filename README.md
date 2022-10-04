@@ -1,33 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=harlexkhal.harlexkhal">
-
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+%F0%9F%91%8B;I'm+Richard+%F0%9F%99%82;A+Software+Engineer!%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Nice+to+meet+you%F0%9F%91%8C%F0%9F%92%AF)](https://git.io/typing-svg)
-  </a>
-</h1>
-
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/richard-oguzie-ibeh-b4a975231/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/oguzieibehricha1" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://devrichie.netlify.app/" title="Portfolio Website"><img width="22" src="images/website.png"> Website</a></code>
-  <code><a href="https://twitter.com/RichardroiDX" title="Twitter Profile"><img width="22" src="images/twitter.png"> Twitter</a></code>
-</h5>
-<br>
-<p align="center">
-  Hi, I'm Richard, A Software Engineer
-  <br>
-  <br>
-  🔬 I'm currently studying at <a href="https://www.microverse.org/">MicroverseInc</a>
-  <br>
-  💻 I love to write lowlevel codes closer to the hardware, and enjoy building mobile applications.
-  <br>
-  📚 I’m currently learning how to build state of the art softwares at Microverse.
-  
-  💬 Feel free to ask me any question <a href="https://github.com/XRichardroidX/XRichardroidX/issues" title="Issues">Here</a>
-  <br>
-  📫 You can reach me on: <a>oguzieibehrichard@gmail.com</a>
-</p>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+%F0%9F%91%8B;I'm+Richard+%F0%9F%99%82;A+Software+Engineer!%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Nice+to+meet+you%F0%9F%91%8C%F0%9F%92%AF)](https://git.io/typing-svg)
 <hr>
 <h2 align="center">Languages | Tools | Skills</h2>
 <br>
