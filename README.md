@@ -19,9 +19,9 @@
   <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
   <code><img title="React" height="25" src="images/react-original.svg"></code>
+  <code><img title="Firebase" height="25" src="images/firebase.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
-  <code><img title="Firebase" height="25" src="images/firebase.svg"></code>
 </p>
 <hr>
 
