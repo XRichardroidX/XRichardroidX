@@ -11,15 +11,17 @@
   <code><img title="C" height="25" src="images/c.svg"></code>
   <code><img title="C++" height="25" src="images/cpp.svg"></code>
   <code><img title="Flutter" height="25" src="images/flutter.png"></code>
-  <img title="Dart" height="25" src="images/dart.png">
+  <code><img title="Dart" height="25" src="images/dart.png"></code>
+  <code><img title="Java" height="25" src="images/java-original.svg"></code>
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
   <code><img title="Node.JS" height="25" src="images/nodejs.png"></code>
+  <code><img title="Python" height="25" src="images/python-original.svg"></code>
   <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
   <code><img title="React" height="25" src="images/react-original.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="images/java-original.svg"></code>
+  <code><img title="Firebase" height="25" src="images/firebase.svg"></code>
 </p>
 <hr>
 
