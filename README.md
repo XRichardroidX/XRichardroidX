@@ -8,9 +8,9 @@
 <h2 align="center">Languages | Tools | Skills</h2>
 <br>
 <p align="center">
-  <code><img title="Flutter" height="25" src="images/c.svg"></code>
-  <code><img title="Dart" height="25" src="images/c.svg"></code>
-  
+  <code><img title="Flutter" height="25" src="images/flutter.svg"></code>
+  <code><img title="Dart" height="25" src="images/dart.svg"></code>
+
   <code><img title="C" height="25" src="images/c.svg"></code>
   <code><img title="C++" height="25" src="images/cpp.svg"></code>
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
