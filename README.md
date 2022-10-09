@@ -12,7 +12,7 @@
   <code><img title="Dart" height="25" src="images/dart.svg"></code>
 
   <code><img title="C" height="25" src="images/c.svg"></code>
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
+  <code><img title="Y" height="25" src="images/cpp.svg"></code>
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
   <code><img title="Node.JS" height="25" src="images/nodejs.png"></code>
   <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
