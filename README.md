@@ -9,7 +9,7 @@
 <br>
 <p align="center">
   <code><img title="Flutter" height="25" src="images/flutter.png"></code>
-  <code><img title="Dart" height="25" src="images/dart.svg"></code>
+  <code><img title="Dart" height="25" src="images/dart.png"></code>
 
   <code><img title="C" height="25" src="images/c.svg"></code>
   <code><img title="Y" height="25" src="images/cpp.svg"></code>
