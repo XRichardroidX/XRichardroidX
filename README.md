@@ -8,7 +8,7 @@
 <h2 align="center">Languages | Tools | Skills</h2>
 <br>
 <p align="center">
-  <code><img title="FlutterX" height="25" src="images/flutter.png"></code>
+  <img title="Flutter" height="25" src="images/flutter.png">
   <code><img title="Dart" height="25" src="images/dart.png"></code>
 
   <code><img title="C" height="25" src="images/c.svg"></code>
