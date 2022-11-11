@@ -38,7 +38,7 @@
   <br>
   💬 Feel free to ask me any question <a href="https://github.com/XRichardroidX/XRichardroidX/issues" title="Issues">Here</a>
   <br>
-  📫 You can reach me on: <a>harlexibeh01@gmail.com</a>
+  📫 You can reach me on: <a>oguzieibehrichard@gmail.com</a>
 </p>
 
 <hr>
