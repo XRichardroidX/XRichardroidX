@@ -8,14 +8,14 @@
 <h2 align="center">Languages | Tools | Skills</h2>
 <br>
 <p align="center">
-  <code><img title="C" height="25" src="images/c.svg"></code>
+<!--  <code><img title="C" height="25" src="images/c.svg"></code> -->
   <code><img title="C++" height="25" src="images/cpp.svg"></code>
   <code><img title="Flutter" height="25" src="images/flutter.png"></code>
   <code><img title="Dart" height="25" src="images/dart.png"></code>
   <code><img title="Java" height="25" src="images/java-original.svg"></code>
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
   <code><img title="Node.JS" height="25" src="images/nodejs.png"></code>
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
+<!--  <code><img title="Python" height="25" src="images/python-original.svg"></code> -->
   <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
   <code><img title="React" height="25" src="images/react-original.svg"></code>
@@ -24,7 +24,24 @@
   <code><img title="Firebase" height="25" src="images/firebase.png"></code>
 </p>
 <hr>
+<p align="center">
+  Hi, I'm Richard, A Software Engineer
+  <br>
+  <br>
+  🔬 I'm currently studying at <a href="https://www.microverse.org/">MicroverseInc</a>
+  <br>
+  📚 I’m currently Building and learning how to secure websites and crossplatform mobile applications against threats.
+  <br>
+  💻 I love to write lowlevel codes closer to the hardware, and enjoy writing codes for Microcontrollers.
+  <br>
+  👨‍💻 I'm currently working on 3 awesome personal projects, <a href="https://github.com/XRichardroidX/Flappy_Bird_Game">Flappy Bird Game, </a><a href="https://github.com/XRichardroidX/Food-Delivery-App">Food-Delivery App, </a>and <a href="https://github.com/XRichardroidX/MCE">Mechatronics department school app, </a>
+  <br>
+  💬 Feel free to ask me any question <a href="https://github.com/XRichardroidX/XRichardroidX/issues" title="Issues">Here</a>
+  <br>
+  📫 You can reach me on: <a>harlexibeh01@gmail.com</a>
+</p>
 
+<hr>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
